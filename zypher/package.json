@@ -69,7 +69,7 @@
     "@material-ui/system": "^3.0.0-alpha.2",
     "@react-google-maps/api": "^1.2.3-alpha.11",
     "algoliasearch": "^3.32.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "chalk": "^2.4.1",
     "classnames": "^2.2.6",
     "compression": "1.7.3",
